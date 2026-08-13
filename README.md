@@ -35,7 +35,8 @@
 ## 📫 Reach me
 
 <p align="left">
-  <a href="mailto:Gowtham.Palanichamy@rapyuta-robotics.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:gowthampalanichamypg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gowtham-palanichamy-75b338217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="left"><i>⚙️ Currently debugging something that only breaks 0.01% of the time.</i></p>
