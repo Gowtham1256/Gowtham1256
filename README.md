@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/CAN%2FCANopen-e11a27?style=flat" />
+  <img src="https://img.shields.io/badge/SPI-4B8BBE?style=flat" />
+  <img src="https://img.shields.io/badge/I2C-4B8BBE?style=flat" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
