@@ -34,6 +34,16 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
+## 🌍 Open source — Zephyr RTOS
+
+| PR | Change | Status |
+|----|--------|--------|
+| [#106888](https://github.com/zephyrproject-rtos/zephyr/pull/106888) | `i2c: stm32_v1` — clear ITBUFEN after I2C error | ![](https://img.shields.io/github/issues/detail/state/zephyrproject-rtos/zephyr/106888?label=) |
+| [#121982](https://github.com/zephyrproject-rtos/zephyr/pull/121982) | `i2c: stm32 v1` — return `-ETIMEDOUT` on transfer timeout | ![](https://img.shields.io/github/issues/detail/state/zephyrproject-rtos/zephyr/121982?label=) |
+| [#115565](https://github.com/zephyrproject-rtos/zephyr/pull/115565) | `clock_control: stm32f4` — opt-in flash latency from actual VDD | ![](https://img.shields.io/github/issues/detail/state/zephyrproject-rtos/zephyr/115565?label=) |
+
+[All my Zephyr PRs →](https://github.com/zephyrproject-rtos/zephyr/pulls?q=is%3Apr+author%3AGowtham1256)
+
 ## 📫 Reach me
 
 <p align="left">
